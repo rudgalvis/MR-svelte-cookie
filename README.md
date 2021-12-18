@@ -1,6 +1,6 @@
 # Minimal reproduction 
 
-Of a problem described in a [stackoverflow]().
+Of a problem described in a [stackoverflow](https://stackoverflow.com/questions/70403075/sveltekit-newly-created-cookie-is-not-showing-in-the-hooks-handle-function).
 
 ---
 
